@@ -1,0 +1,16 @@
+{
+    "cliente": "Andrés",
+    "productos": [
+    {
+    "nombre": "sillas plegables",
+    "cantidad": 12
+    },
+    {
+    "nombre": "pizarras blancas",
+    "cantidad": 3
+    }
+    ],
+    "fecha_entrega": null,
+    "urgente": false,
+    "es_pedido": false
+}

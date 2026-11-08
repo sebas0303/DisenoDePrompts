@@ -1,0 +1,12 @@
+{
+    "cliente": "Bar La Esquina",
+    "productos": [
+    {
+    "nombre": "café en grano",
+    "cantidad": 10
+    }
+    ],
+    "fecha_entrega": null,
+    "urgente": true,
+    "es_pedido": true
+}

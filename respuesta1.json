@@ -1,0 +1,16 @@
+{
+    "cliente": "Marta López",
+    "productos": [
+        {
+        "nombre": "tornillos M6",
+        "cantidad": 20
+        },
+        {
+        "nombre": "taladros percutores",
+        "cantidad": 5
+        }
+    ],
+    "fecha_entrega": "2026-10-23",
+    "urgente": true,
+    "es_pedido": false
+}
