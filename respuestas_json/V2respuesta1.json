@@ -1,0 +1,11 @@
+{
+"cliente": "Ferretería El Clavo", 
+"productos": [
+    {"nombre": "cajas de tornillos M6", 
+    "cantidad": 20}, 
+    {"nombre": "taladros percutores", 
+    "cantidad": 5}], 
+"fecha_entrega": null, 
+"urgente": false, 
+"es_pedido": true
+}
